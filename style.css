@@ -52,12 +52,12 @@ h1 {
   gap: 0.625rem; 
   align-self: stretch; 
   border-radius: 0.625rem; 
-  background: #06c4b4; 
+  background: #c8e0de; 
   font-size: 2rem; 
 } 
 w
 #entrada-de-texto::placeholder { 
-  color: #108c91; 
+  color: #d9f1f1; 
   font-size: 2rem; 
   font-weight: 400; 
   line-height: normal; 
