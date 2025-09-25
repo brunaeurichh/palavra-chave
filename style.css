@@ -5,9 +5,9 @@
   --cor-destaque: #327a80;
   --cor-gradiente-preto: linear-gradient(
     113deg,
-    #abdbe4 0%,
-    #4bbec2 44.96%,
-    #0da397 100%
+    #abdbe4a6 0%,
+    #4bbec2b7 44.96%,
+    #26c0b3fa 100%
   );
 }
 
@@ -72,7 +72,7 @@ h1 {
   border-radius: 0.5rem;
   border: none;
   background: var(--cor-destaque);
-  color: #fffbfb;
+  color: #bce5e3bd;
   font-size: 2.5rem;
   font-weight: 500;
   line-height: normal;
